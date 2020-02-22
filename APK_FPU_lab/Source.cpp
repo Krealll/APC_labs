@@ -15,6 +15,9 @@ int main()
 		fld b
 		fld x
 		loop_ :
+		//fcom
+		//fstsw ax
+		//and ah,01000101b
 		fcomi st(0), st(1)
 			ja	 _end
 
