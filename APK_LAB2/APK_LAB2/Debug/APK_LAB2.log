@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\user\source\repos\apk_lab2\apk_lab2\source.cpp(25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\user\source\repos\apk_lab2\apk_lab2\source.cpp(27): warning C4305: инициализация: усечение из "__int64" в "long"
+c:\users\user\source\repos\apk_lab2\apk_lab2\source.cpp(27): warning C4309: инициализация: усечение константного значения
+  APK_LAB2.vcxproj -> C:\Users\User\source\repos\APK_LAB2\Debug\APK_LAB2.exe
