@@ -1,0 +1,11 @@
+Turbo Assembler  Version 3.1  Copyright (c) 1988, 1992 Borland International
+
+Assembling file:   MAIN.ASM
+*Warning* MAIN.ASM(172) Reserved word used as symbol: DISPLAY
+*Warning* MAIN.ASM(267) Argument needs type override
+*Warning* MAIN.ASM(273) Argument needs type override
+Error messages:    None
+Warning messages:  3
+Passes:            1
+Remaining memory:  470k
+
