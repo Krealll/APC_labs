@@ -4,6 +4,9 @@
 #include <conio.h>
 #include <io.h>
 
+//************************************************************************
+// This code is required to launch on MS DOS virtual machine with downgraded CPU performance
+//************************************************************************
 
 struct VIDEO
 {
