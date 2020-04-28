@@ -1,3 +1,8 @@
+/*
+This porgramm changes key process rate and delay before key auto repeat using comands:
+	-chXX - change rate (0-31)
+	-chdX - change delay(0-3)
+*/	
 #include <dos.h>
 #include <stdio.h>
 #include <iostream.h>
